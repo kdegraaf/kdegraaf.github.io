@@ -2,6 +2,10 @@
 
 I'm Kevin DeGraaf, a Sr. DevOps Engineer based in Grand Rapids, Michigan.  I'm actively looking for a new remote role anywhere in the United States.
 
+* [Résumé](https://kdegraaf.github.io/resume/2021-02-26_Kevin_DeGraaf.pdf)
+* [GitHub](https://github.com/kdegraaf)
+* [LinkedIn](https://www.linkedin.com/in/kevinjdegraaf)
+
 I would be glad to speak with you regarding the opportunity you have for me.  But first, I'd humbly request that you gather some information from the hiring manager to help me make an informed decision.  I would hate to waste your time discussing a role that's not a great fit.
 
 ## Must-haves
