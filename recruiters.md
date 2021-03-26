@@ -1,6 +1,6 @@
 # Hello, recruiters!
 
-I'm Kevin DeGraaf, a Sr. DevOps Engineer based in Grand Rapids, Michigan.  I'm actively looking for a new remote role anywhere in the United States.
+I'm Kevin DeGraaf, a senior DevOps/Cloud Engineer based in Grand Rapids, Michigan.  I'm actively looking for a new remote role anywhere in the United States.
 
 * [Résumé](https://kdegraaf.github.io/resume/2021-02-26_Kevin_DeGraaf.pdf)
 * [GitHub](https://github.com/kdegraaf)
