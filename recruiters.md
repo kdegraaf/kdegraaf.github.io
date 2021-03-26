@@ -10,7 +10,7 @@ I would be glad to speak with you regarding the opportunity you have for me.  Bu
 
 ## Must-haves
 
-* 100% remote.  When COVID is completely over, I'd consider a small amount of travel.
+* 100% remote for now.  When COVID is completely over, I'd consider a small amount of travel.
 * Direct FTE placement.  I'm not interested in third-party consultancy or contract-to-hire.
 * Slack.  Sorry, but HipChat, Teams, RocketChat and IRC don't count.
 * Company-provided Mac or Linux laptop, or permission to use my own.
