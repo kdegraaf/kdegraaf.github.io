@@ -21,6 +21,8 @@ I would be glad to speak with you regarding the opportunity you have for me.  Bu
 
 * A team which is fully remote/distributed/WFH (even without COVID).  While I have been successful working as "the remote guy", my preference would be that _everyone_ is remote.
 * Fully in Amazon Web Services.  I'll work in other clouds or in on-prem equipment too, but I'd prefer to leverage my time investment in AWS.
+* An opportunity to build green-field infrastructure.
+* A smaller team and tech organization where I can make a real difference, compared to being a cog in a larger calcified machine.
 
 ## Information I'd like
 
